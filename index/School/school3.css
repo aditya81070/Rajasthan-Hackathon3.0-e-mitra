@@ -1,5 +1,5 @@
 body{
-  background-image: url(dasd.png);
+  background-image: url(rewe-01.png);
   background-size: 100% 700px;
 }
 .left{
@@ -11,11 +11,8 @@ body{
 }
 .up{
   padding-left: 80px;
-  image-resolution: 20px 20px;
-  float: left;
 }
 .down{
   padding-left: 160px;
   padding-top: 20px;
-  image-resolution: 10px 10px;
 }
