@@ -1,4 +1,4 @@
-## Rajasthan Hackathon 3.0
+# Rajasthan Hackathon 3.0
 
 # e-Mitra School and College Payment Portal
 
